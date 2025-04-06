@@ -28,6 +28,3 @@ Just open `amazon.html` in your browser or use the link: [Amazon Clone](https://
 - `orders.html` — your past orders
 - `tracking.html` — track your delivery
 
----
-
-Project made for learning and practice. Not connected to any backend.
