@@ -17,9 +17,7 @@ Everything is saved in `localStorage`, so your cart and orders stay even if you 
 
 ### How to use
 
-Just open `amazon.html` in your browser and explore the flow.
-
-All data is loaded from a local `products.json` file.
+Just open `amazon.html` in your browser or use the link: [Amazon Clone](https://crvckxxjvck.github.io/amazon-clone).
 
 ---
 
