@@ -17,13 +17,13 @@ Everything is saved in `localStorage`, so your cart and orders stay even if you 
 
 ### How to use
 
-Just open `amazon.html` in your browser or use the link: [Amazon Clone](https://crvckxxjvck.github.io/amazon-clone).
+Just open `index.html` in your browser or use the link: [Amazon Clone](https://crvckxxjvck.github.io/amazon-clone).
 
 ---
 
 ### Pages
 
-- `amazon.html` — home / product listing
+- `index.html` — home / product listing
 - `checkout.html` — checkout process
 - `orders.html` — your past orders
 - `tracking.html` — track your delivery
