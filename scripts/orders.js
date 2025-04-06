@@ -94,7 +94,7 @@ async function loadPage() {
           <img class="buy-again-icon" src="images/icons/buy-again.png">
           <span class="buy-again-message">Buy it again</span>
         `;
-        window.location.href = '/checkout.html'
+        window.location.href = 'checkout.html'
       }, 1000);
     });
   });
