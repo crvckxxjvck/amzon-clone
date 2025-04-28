@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone
+# Amazon Clone
 
 This is a simple Amazon-style frontend clone made with vanilla HTML, CSS and JavaScript.
 
@@ -17,7 +17,7 @@ Everything is saved in `localStorage`, so your cart and orders stay even if you 
 
 ### How to use
 
-Just open `index.html` in your browser or use the link: [Amazon Clone](https://vlad1shpota.github.io/amazon-clone).
+Just open `index.html` in your browser or use the link: [Amazon Clone](https://my-amazon-clone-1.netlify.app/).
 
 ---
 
